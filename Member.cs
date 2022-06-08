@@ -41,7 +41,7 @@ namespace b1
             }
         }
 
-        public string fullName
+        public string FullName
         {
             get
             {

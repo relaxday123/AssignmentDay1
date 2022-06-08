@@ -81,7 +81,7 @@
 
             foreach (var member in members)
             {
-                Console.WriteLine(member.fullName);
+                Console.WriteLine(member.FullName);
             }
 
             Console.WriteLine("-------------------");
